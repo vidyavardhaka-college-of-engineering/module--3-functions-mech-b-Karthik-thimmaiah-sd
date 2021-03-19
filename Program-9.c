@@ -20,7 +20,7 @@
 
 	    }
       else {
-      printf("hdytdrd");
+      printf("dont copy this");
       }
 	    return 0;
 	}
